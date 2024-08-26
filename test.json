@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/massmoussi/xss.io/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/massmoussi/xss.io/main/testt.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/massmoussi/xss.io/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/massmoussi/xss.io/main/testt.yaml",
             "name": "Foo"
         }
     ]
